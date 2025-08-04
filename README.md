@@ -25,15 +25,6 @@
 
 ---
 
-### 📈 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=krishnagopalsharma&show_icons=true&theme=radical" alt="Krishna's GitHub stats"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=krishnagopalsharma&theme=radical" alt="GitHub Streak"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=krishnagopalsharma&layout=compact&theme=radical"/>
-</p>
-
----
 
 ### 🚀 Featured Projects
 
@@ -41,22 +32,16 @@
   - Real-time fire detection using CV & ML models
   - [GitHub Repo](https://github.com/krishnagopalsharma/fire-detection)
 
-- 🌱 **Smart Plantation Monitoring**
-  - Crop yield optimization using NPK, temperature, and ML
-  - [GitHub Repo](https://github.com/krishnagopalsharma/smart-plantation)
 
-- 📚 **EduTech Platform**
-  - Mood-based content recommendations (MoodyTales)
-  - [GitHub Repo](https://github.com/krishnagopalsharma/moodytales)
 
 ---
 
 ### 📫 Connect with Me
 
 <p align="left">
-  <a href="mailto:krishnagopalsharma2003@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
-  <a href="https://www.linkedin.com/in/krishnagopalsharma/"><img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-  <a href="https://github.com/krishnagopalsharma"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/></a>
+  <a href="mailto:krishnagopalsharma1270@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+  <a href="https://www.linkedin.com/in/krishna-gopal-sharma-94851425b/"><img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+  <a href="https://github.com/krishna663-wq"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/></a>
 </p>
 
 ---
