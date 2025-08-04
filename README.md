@@ -28,12 +28,17 @@
 
 ### 🚀 Featured Projects
 
-- 🔥 **Fire Detection System using Image Processing**
-  - Real-time fire detection using CV & ML models
-  - [GitHub Repo](https://github.com/krishnagopalsharma/fire-detection)
+- 🔥 **Fire Detection System using Image Processing**  
+  Real-time fire detection using CV & ML models  
+  [GitHub Repo](https://github.com/krishnagopalsharma/fire-detection)
 
+- 🎥 **YouTube Sentiment Analysis**  
+  Analyze sentiments of YouTube comments using NLP and visualization  
+  [GitHub Repo](https://github.com/krishna663-wq/Youtube_sentimentAnalysis)
 
-
+- 😊 **Emotion Classification**  
+  Deep learning-based model to classify human emotions from text  
+  [GitHub Repo](https://github.com/krishna663-wq/Emotion_Classfication/blob/main/README%20(1).md)
 ---
 
 ### 📫 Connect with Me
