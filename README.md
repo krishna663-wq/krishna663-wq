@@ -1,11 +1,13 @@
 <!-- KrishnaGopalSharma README -->
 
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=3000&pause=1000&center=true&vCenter=true&width=435&lines=AI+%26+ML+Engineer+%7C+Software+Developer;Building+intelligent+systems+for+the+future+🤖;Innovating+with+Python+%7C+Deep+Learning+%7C+CV+%7C+NLP" alt="Typing SVG" />
-</p>
 
-<h1 align="center" style="color:#1d9bf0;">Hi 👋, I'm <span style="color:#218c74;">Krishna Gopal Sharma</span></h1>
-<h3 align="center" style="color:#218c74;">AI & ML Engineer | B.Tech CSE | Software Developer | Tech Explorer</h3>
+<p align="center">
+  <img src="https://img.shields.io/badge/AI%20%26%20ML%20Engineer-%231d9bf0.svg?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/B.Tech%20CSE-%23218c74.svg?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Software%20Developer-%231d9bf0.svg?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Tech%20Explorer-%23218c74.svg?style=for-the-badge" />
+</p>
+<h1 align="center">Hi 👋, I'm <b>Krishna Gopal Sharma</b></h1>
 
 ---
 
